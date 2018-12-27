@@ -1,0 +1,15 @@
+#Lista de exercícios de Java I/O - para disciplina SD-II - 11/03/2013
+
+Desenvolva scripts de código em um programa no método main para:
+criar um arquivo no sistema operacional
+alterar o nome do arquivo criado
+criar um diretório comm o nome 'temp'
+criar vários arquivos dentro deste diretório recem criado
+mostre no console cada um dos arquivos contidos na pasta c:/
+crie um arquivo, passe todo o conteúdo desta lista de exercícios para ele usuando FileWriter
+mostre no console este arquivo recém criado usando FileReader
+mostre agora com o RandomAccesFile
+como você faria para mostrar o conteúdo do arquivo com a classe Scanner
+agora que você já leu com estes mecanismos, delete o arquivo (usano a API)
+copie o conteúdo de uma imagem que está na sua pasta em Documents and settings/images para a pasta raiz do computado
+
